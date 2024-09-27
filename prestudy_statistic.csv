@@ -1,0 +1,27 @@
+,VAR,LABEL,Mean,Standard Deviation
+0,PS01,Receiving Notifications,3.5,1.0488088481701516
+1,PS02_01,Situation of receiving notifications: [01],,
+2,PS04_01,Notification management: I turn off notifications for most apps,4.666666666666667,1.632993161855452
+3,PS04_02,Notification management: I customize notification settings for different apps,4.833333333333333,2.316606713852541
+4,PS04_03,"Notification management: I use ""Do Not Disturb"" mode during specific times",5.666666666666667,2.3380903889000244
+5,PS04_04,Notification management: I manage notifications as they come in,4.0,1.6733200530681511
+6,PS04_05,Notification management: I manually check and clear notifications,4.333333333333333,2.3380903889000244
+7,PS04_06,Notification management: I don’t manage notifications actively,3.5,1.760681686165901
+8,PS06_01, Handling Notifications: I turn off notifications for certain apps,6.666666666666667,0.8164965809277259
+9,PS06_02, Handling Notifications: I set specific times to check notifications,2.0,2.0
+10,PS06_03, Handling Notifications: I use apps to manage and filter notifications,1.6666666666666667,1.632993161855452
+11,PS06_04, Handling Notifications: I take breaks from my devices,2.6666666666666665,1.2110601416389968
+12,PS06_05, Handling Notifications: I don’t have a specific coping strategy,5.0,2.0976176963403033
+13,PS07,Effectiveness of handling noti,4.666666666666667,1.0327955589886444
+14,PS09,Context Notification: Residual option (negative) or number of selected options,1.0,0.0
+15,PS09_01,Context Notification: During meetings,,
+16,PS09_02,Context Notification: While driving,,
+17,PS09_03,Context Notification: During meals,,
+18,PS09_04,Context Notification: While working on important tasks,,
+19,PS09_05,Context Notification: I don’t have specific preferences,,
+20,PS09_06,Context Notification: Other (please specify),,
+21,PS09_06a,Context Notification: Other (please specify) (free text),,
+22,PS10,Importance in Work Context,6.0,0.8944271909999159
+23,PS11,Multiple Platforms,,
+24,PS12,Usage TableTops,,
+25,PS17_01,Others_Usage TableTop:: Other (please specify),,
